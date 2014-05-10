@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CategoryDetail>
+  <CategoryID>C002ACTION</CategoryID>
+  <PageTitle>Action DVDs and Blu-Rays from makitCommerce</PageTitle>
+  <MetaDescription>Action genre films on DVD or Blu-Ray</MetaDescription>
+  <MetaKeywords>action, DVD, blu-ray, makitcommerce, makit</MetaKeywords>
+  <CategoryIDToDisplay></CategoryIDToDisplay>
+  <CategoryName>Action DVDs</CategoryName>
+  <CategoryPresentationName>Action DVDs and Blu-Rays</CategoryPresentationName>
+  <CategoryShortDescription>A host of DVDs containing awesome action.</CategoryShortDescription>
+  <CategoryLongDescription>All DVDs stocked by makitCommerce in the Action Genre. Containing guns, fighting and fast paced music.</CategoryLongDescription>
+  <CategoryTemplate></CategoryTemplate>
+  <CategoryImage1></CategoryImage1>
+  <CategoryImage2></CategoryImage2>
+  <CategoryAttributes></CategoryAttributes>
+  <SubProducts>
+    <ProductId>P02</ProductId>
+    <ProductId>P03</ProductId>
+  </SubProducts>
+</CategoryDetail>

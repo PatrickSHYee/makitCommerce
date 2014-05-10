@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ProductDetail>
+  <ProductID>P06</ProductID>
+  <PageTitle>Fictional Science Man from makitCommerce</PageTitle>
+  <MetaDescription>Fictional Science Man Blu-Ray from makitCommerce</MetaDescription>
+  <MetaKeywords>fictional science man, blu-ray, film, makit, makitCommerce</MetaKeywords>
+  <ProductName>Fictional Science Man Blu-Ray</ProductName>
+  <ProductShortDescription>A man who likes fictional science decides to watch a sci-fi film...</ProductShortDescription>
+  <ProductLongDescription>An interesting concept for Sci-Fi films, watch Jimmy discover Sci-Fi and watch him watch a film. Rated
+  10/10 by all reviewers in the world but widely regarded as boring. You decide.</ProductLongDescription>
+  <ProductAttributes>
+    <Attribute key="Test" value="TextValue" />
+  </ProductAttributes>
+  <ProductUnitPrice>
+    <AmountInPence>1099</AmountInPence>
+    <CurrencyCode>GBP</CurrencyCode>
+  </ProductUnitPrice>
+</ProductDetail>

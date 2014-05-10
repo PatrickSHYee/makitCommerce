@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ProductDetail>
+  <ProductID>P04</ProductID>
+  <PageTitle>Human DVD from makitCommerce</PageTitle>
+  <MetaDescription>Human DVD from makitCommerce</MetaDescription>
+  <MetaKeywords>human, sci-fi, dvd, makit, makitCommerce</MetaKeywords>
+  <ProductName>Human DVD</ProductName>
+  <ProductShortDescription>A story set on earth about a Human. On earth everybody can hear you scream.</ProductShortDescription>
+  <ProductLongDescription>Bob is a Human, he likes to eat Apples and chocolate. One day he is interupted in his sleep by Aliens peering over
+  him and he thrashes out catching one in the inner mouth. They take him aboard and he goes crazy with a flamethrower trying to kill them all.</ProductLongDescription>
+  <ProductAttributes>
+    <Attribute key="Test" value="TextValue" />
+  </ProductAttributes>
+  <ProductUnitPrice>
+    <AmountInPence>1099</AmountInPence>
+    <CurrencyCode>GBP</CurrencyCode>
+  </ProductUnitPrice>
+</ProductDetail>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ConfigurationValues xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <add key="seo.title.prefix" value="" />
+  <add key="seo.title.postfix" value="makitCommerce Demo Store" />
+  <add key="seo.title.separator" value=" : " />
+</ConfigurationValues>

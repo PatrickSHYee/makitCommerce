@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ProductDetail>
+  <ProductID>P07</ProductID>
+  <PageTitle>Alphabet Part One from makitCommerce</PageTitle>
+  <MetaDescription>Alphabet Part One Book from makitCommerce</MetaDescription>
+  <MetaKeywords>alphabet, part one, book, large print, makit, makitCommerce</MetaKeywords>
+  <ProductName>Alphabet Part One Book</ProductName>
+  <ProductShortDescription>Part one of the exciting Alphabet.</ProductShortDescription>
+  <ProductLongDescription>A book covering the award wining alphabet. In fact you are using the alphabet right this moment. This book
+  covers A through to B.</ProductLongDescription>
+  <ProductAttributes>
+    <Attribute key="Test" value="TextValue" />
+  </ProductAttributes>
+  <ProductUnitPrice>
+    <AmountInPence>1199</AmountInPence>
+    <CurrencyCode>GBP</CurrencyCode>
+  </ProductUnitPrice>
+</ProductDetail>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ProductDetail>
+  <ProductID>P09</ProductID>
+  <PageTitle>How to Train a Muppet from makitCommerce</PageTitle>
+  <MetaDescription>How to Train a Muppet Book from makitCommerce</MetaDescription>
+  <MetaKeywords>how to train a muppet, training, muppet, book, picture, makit, makitCommerce</MetaKeywords>
+  <ProductName>How to Train a Muppet Book</ProductName>
+  <ProductShortDescription>Learn how to train your Muppet soft toy from pictures and diagrams.</ProductShortDescription>
+  <ProductLongDescription>If you own a Muppet Soft Toy and wanted to train it to do tricks then follow these easy to
+  follow diagrams and images showing how. Warning, may not work.</ProductLongDescription>
+  <ProductAttributes>
+    <Attribute key="Test" value="TextValue" />
+  </ProductAttributes>
+  <ProductUnitPrice>
+    <AmountInPence>1200</AmountInPence>
+    <CurrencyCode>GBP</CurrencyCode>
+  </ProductUnitPrice>
+</ProductDetail>

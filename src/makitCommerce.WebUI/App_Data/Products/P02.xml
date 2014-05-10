@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ProductDetail>
+  <ProductID>P02</ProductID>
+  <PageTitle>Kick in the Head on DVD from makitCommerce</PageTitle>
+  <MetaDescription>DVD of Kick in the Head from makitCommerce</MetaDescription>
+  <MetaKeywords>kick in the head, dvd, film, makit, makitCommerce</MetaKeywords>
+  <ProductName>Kick in the Head DVD</ProductName>
+  <ProductShortDescription>A high petrol adventure containing a guy who likes to kick... in the head.</ProductShortDescription>
+  <ProductLongDescription>
+    Jeremy "Head-Kicker" Udder goes on a mission to kick all the people he doesn't like in the head. Contains a big actor
+    in a poster on the wall of one scene. Viewers must be 18 or over.
+  </ProductLongDescription>
+  <ProductAttributes>
+    <Attribute key="Test" value="TextValue" />
+  </ProductAttributes>
+  <ProductUnitPrice>
+    <AmountInPence>0799</AmountInPence>
+    <CurrencyCode>GBP</CurrencyCode>
+  </ProductUnitPrice>
+</ProductDetail>

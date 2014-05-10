@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ProductDetail>
+  <ProductID>P05</ProductID>
+  <PageTitle>God Science from makit.Commerce</PageTitle>
+  <MetaDescription>God Science DVD from makitCommerce</MetaDescription>
+  <MetaKeywords>god science, dvd, makit, makitCommerce</MetaKeywords>
+  <ProductName>God Science DVD</ProductName>
+  <ProductShortDescription>Watch God discover science and decide it's better than him</ProductShortDescription>
+  <ProductLongDescription>What if god did exist? This film answers that very question by showing God wake up one day and
+  decide to learn Science, only to decide it is better than him.</ProductLongDescription>
+  <ProductAttributes>
+    <Attribute key="Test" value="TextValue" />
+  </ProductAttributes>
+  <ProductUnitPrice>
+    <AmountInPence>0599</AmountInPence>
+    <CurrencyCode>GBP</CurrencyCode>
+  </ProductUnitPrice>
+</ProductDetail>

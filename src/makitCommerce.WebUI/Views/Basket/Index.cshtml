@@ -1,0 +1,16 @@
+﻿@model makit.makitCommerce.Domain.Models.CustomerBasket
+
+@{
+    ViewBag.Title = "Basket";
+}
+
+<h1>Basket</h1>
+
+@if (Model.GetNumberOfItemsInBasket() > 0)
+{
+    Html.RenderPartial("PartialFilledBasket");
+}
+else
+{
+    Html.RenderPartial("PartialEmptyBasket");
+}

@@ -1,0 +1,33 @@
+﻿@model makit.makitCommerce.Domain.Models.CategoryDetail
+
+@{
+    ViewBag.Title = Model.PageTitle;
+}
+
+@section Css {
+    @Styles.Render("~/Content/addtobasket")
+}
+
+@section Scripts {
+    @Scripts.Render("~/bundles/addtobasket")
+}
+
+<h1>@Model.CategoryPresentationName</h1>
+
+<p>@Model.CategoryShortDescription</p>
+
+<h2>Description</h2>
+<p>@Model.CategoryLongDescription</p>
+
+
+@if (Model.SubCategories != null)
+{
+    <h2>Sub Categories</h2>
+    Html.RenderPartial("_CategoryListPartial");
+}
+
+@if (Model.SubProducts != null)
+{
+    <h2>Sub Products</h2>
+    Html.RenderPartial("_ProductListPartial");
+}

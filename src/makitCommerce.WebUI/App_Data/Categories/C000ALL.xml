@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CategoryDetail>
+  <CategoryID>C000ALL</CategoryID>
+  <PageTitle>All product categories from makitCommerce</PageTitle>
+  <MetaDescription>Products from makitCommerce</MetaDescription>
+  <MetaKeywords>products, makit, makitcommerce</MetaKeywords>
+  <CategoryIDToDisplay></CategoryIDToDisplay>
+  <CategoryName>All Categories</CategoryName>
+  <CategoryPresentationName>All Product Categories</CategoryPresentationName>
+  <CategoryShortDescription>All makitCommerce product categories.</CategoryShortDescription>
+  <CategoryLongDescription>List of categories within the makitCommerce store.</CategoryLongDescription>
+  <CategoryTemplate></CategoryTemplate>
+  <CategoryImage1></CategoryImage1>
+  <CategoryImage2></CategoryImage2>
+  <CategoryAttributes>
+    <Attribute key="Test" value="TextValue" />
+  </CategoryAttributes>
+  <SubCategories>
+    <CategoryId>C001DVD</CategoryId>
+    <CategoryId>C005BOOKS</CategoryId>
+  </SubCategories>
+</CategoryDetail>

@@ -1,0 +1,35 @@
+﻿@model makit.makitCommerce.Domain.Models.CategoryDetail
+
+<script type="text/javascript">
+    var addOptions = {
+        dataType: 'json',
+        url: '@Url.Action("AddToBasketAjax", "Basket")',
+        success: function (data) {
+            $.jGrowl(data.SuccessMessage);
+            if (data.MiniBasketContent != null)
+                $('#MiniBasket').html(data.MiniBasketContent);
+        },
+        error: function () {
+            window.location.href = '@Url.Action("Index", "Basket")';
+        }
+    };
+
+    $(function () {
+       
+       @foreach (var item in Model.SubProducts)
+        {
+            @:$("#AddForm-@(item.ProductId)").ajaxForm(addOptions);
+        }
+        
+    });
+</script>
+
+@foreach (var item in Model.SubProducts)
+{
+    <div class="singleProduct">
+        <a href="@Url.Action("Display", "Product", new { id = item.ProductId, slug = item.ProductUrlSlug })">@item.ProductName</a>
+        <p>@item.ProductShortDescription</p>
+        @{ Html.RenderPartial("_BasketFormPartial", item); }
+    </div>
+}
+

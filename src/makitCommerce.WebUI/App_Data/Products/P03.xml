@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ProductDetail>
+  <ProductID>P03</ProductID>
+  <PageTitle>The Little Fairy</PageTitle>
+  <MetaDescription>The Little Fairy Blu-Ray from makitCommerce</MetaDescription>
+  <MetaKeywords>little fairy, dvd, film, makit, makitCommerce</MetaKeywords>
+  <ProductName>The Little Fairy DVD</ProductName>
+  <ProductShortDescription>A stunningly violent film from the Mushroom Brothers about a Fairy who is out for revenge.</ProductShortDescription>
+  <ProductLongDescription>Patty, the beautiful Fairy of Bolton, has been "dissed innit" by some urban folk and she is out for revenge. Starting
+  with torturing some innocent family members she works her way to the leader of the "Skare Rats".</ProductLongDescription>
+  <ProductAttributes>
+    <Attribute key="Test" value="TextValue" />
+  </ProductAttributes>
+  <ProductUnitPrice>
+    <AmountInPence>1198</AmountInPence>
+    <CurrencyCode>GBP</CurrencyCode>
+  </ProductUnitPrice>
+</ProductDetail>

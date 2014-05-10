@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CategoryDetail>
+  <CategoryID>C006LARGE</CategoryID>
+  <PageTitle>Large Print Books from makitCommerce</PageTitle>
+  <MetaDescription>Books with larger than normal print by makitCommerce</MetaDescription>
+  <MetaKeywords>books, large print, hard of seeing, makit, makitCommerce</MetaKeywords>
+  <CategoryIDToDisplay></CategoryIDToDisplay>
+  <CategoryName>Large Print Books</CategoryName>
+  <CategoryPresentationName>Beautiful Large Print Books</CategoryPresentationName>
+  <CategoryShortDescription>Books with Large Print from makitCommerce</CategoryShortDescription>
+  <CategoryLongDescription>A range of books from makitCommerce with large lettering for easy reading.</CategoryLongDescription>
+  <CategoryTemplate></CategoryTemplate>
+  <CategoryImage1></CategoryImage1>
+  <CategoryImage2></CategoryImage2>
+  <CategoryAttributes></CategoryAttributes>
+  <SubProducts>
+    <ProductId>P07</ProductId>
+  </SubProducts>
+</CategoryDetail>

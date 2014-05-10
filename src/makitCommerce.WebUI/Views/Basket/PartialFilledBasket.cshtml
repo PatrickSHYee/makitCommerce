@@ -1,0 +1,27 @@
+﻿@using makit.makitCommerce.Domain.Models
+
+@model makit.makitCommerce.Domain.Models.CustomerBasket
+
+<div id="basketTable">
+    <table>
+        <thead>
+            <tr>
+                <td>Quantity</td>
+                <td>Product</td>
+                <td>Unit Price</td>
+                <td>Total Price</td>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (BasketItem lineItem in Model.BasketItemsArray)
+            {
+                <tr>
+                    <td><input type="text" value="@lineItem.Quantity" class="quantity" /></td>
+                    <td>@lineItem.ProductName</td>
+                    <td>@lineItem.UnitPrice.ToString()</td>
+                    <td>@lineItem.LineTotalPrice.ToString()</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

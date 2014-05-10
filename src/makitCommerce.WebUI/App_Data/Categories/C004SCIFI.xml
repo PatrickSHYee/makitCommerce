@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CategoryDetail>
+  <CategoryID>C004SCIFI</CategoryID>
+  <PageTitle>Science Fiction DVDs and Blu-Rays from makitCommerce</PageTitle>
+  <MetaDescription>Sci-Fi DVDs and Blu-Rays</MetaDescription>
+  <MetaKeywords>sci-fi, dvd, blu-ray, science, makitcommerce, makit</MetaKeywords>
+  <CategoryIDToDisplay></CategoryIDToDisplay>
+  <CategoryName>Sci-Fi DVDs</CategoryName>
+  <CategoryPresentationName>Science Fiction DVDs and Blu-Rays</CategoryPresentationName>
+  <CategoryShortDescription>A range of Science Fiction genre DVDs or Blu-Rays.</CategoryShortDescription>
+  <CategoryLongDescription>DVDs and Blu-Rays containing films set in future universes or amazing fictional scientific topics.</CategoryLongDescription>
+  <CategoryTemplate></CategoryTemplate>
+  <CategoryImage1></CategoryImage1>
+  <CategoryImage2></CategoryImage2>
+  <CategoryAttributes></CategoryAttributes>
+  <SubProducts>
+    <ProductId>P04</ProductId>
+    <ProductId>P05</ProductId>
+    <ProductId>P06</ProductId>
+  </SubProducts>
+</CategoryDetail>

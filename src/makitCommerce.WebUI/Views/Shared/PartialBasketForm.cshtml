@@ -1,0 +1,7 @@
+﻿@model makit.makitCommerce.Models.Product
+
+<form id="AddForm-@(Model.ProductID)" action="@Url.Action("AddToBasket", "Basket")" method="post" class="addForm">
+    @Html.Hidden("productID", Model.ProductID)
+    Quantity: <input id="Quantity" name="quantity" type="text" value="1" />
+    <input type="submit" value="Add To Basket" />    
+</form>

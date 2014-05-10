@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ProductDetail>
+  <ProductID>P01</ProductID>
+  <PageTitle>The Little Barmaid DVD from makitCommerce</PageTitle>
+  <MetaDescription>The Little Barmaid DVD from makitCommerce</MetaDescription>
+  <MetaKeywords>little, barmaid, pub, makit, makitCommerce</MetaKeywords>
+  <ProductName>The Little Barmaid DVD</ProductName>
+  <ProductShortDescription>A fabulous tale of a Barmaid who wants to get out of her bar and be a famous actress.</ProductShortDescription>
+  <ProductLongDescription>A fantastic DVD version of The Little Barmaid. A brilliant tale of a Barmaid who wants to get out of her bar and be a famous actress. Contains some semi-famous
+  people dressed as fish. Not recommended for dogs or cats.</ProductLongDescription>
+  <ProductAttributes>
+    <Attribute key="Test" value="TextValue" />
+  </ProductAttributes>
+  <ProductUnitPrice>
+    <AmountInPence>1099</AmountInPence>
+    <CurrencyCode>GBP</CurrencyCode>
+  </ProductUnitPrice>
+</ProductDetail>

@@ -1,0 +1,8 @@
+﻿@model makit.makitCommerce.Domain.Models.CategoryDetail
+
+<ul class="nav">
+@foreach (var item in Model.SubCategories) {
+    <li><a href="@Url.Action("Display", "Category", new { id = item.CategoryID, slug = item.CategoryUrlSlug })">@item.CategoryName</a></li>
+}
+</ul>
+

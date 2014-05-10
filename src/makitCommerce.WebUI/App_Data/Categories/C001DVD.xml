@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CategoryDetail>
+  <CategoryID>C001DVD</CategoryID>
+  <PageTitle>DVDs and Blu-Rays from makitCommerce</PageTitle>
+  <MetaDescription></MetaDescription>
+  <MetaKeywords></MetaKeywords>
+  <CategoryIDToDisplay></CategoryIDToDisplay>
+  <CategoryName>DVDs</CategoryName>
+  <CategoryPresentationName>DVDs and Blu-Rays</CategoryPresentationName>
+  <CategoryShortDescription>A fine selection of the best DVDs and Blu-Rays.</CategoryShortDescription>
+  <CategoryLongDescription>We hold a small range of high quality and well reviewed films. They are available in DVD or Blu-Ray format, and at great prices.</CategoryLongDescription>
+  <CategoryTemplate></CategoryTemplate>
+  <CategoryImage1></CategoryImage1>
+  <CategoryImage2></CategoryImage2>
+  <CategoryAttributes></CategoryAttributes>
+  <SubCategories>
+    <CategoryId>C002ACTION</CategoryId>
+    <CategoryId>C003FANTASY</CategoryId>
+    <CategoryId>C004SCIFI</CategoryId>
+  </SubCategories>
+</CategoryDetail>

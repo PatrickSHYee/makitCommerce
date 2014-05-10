@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CategoryDetail>
+  <CategoryID>C007PICTURE</CategoryID>
+  <PageTitle>Picture Books from makitCommerce</PageTitle>
+  <MetaDescription>Books containing mostly pictures from makitCommerce</MetaDescription>
+  <MetaKeywords>books, pictures, makit, makitCommerce</MetaKeywords>
+  <CategoryIDToDisplay></CategoryIDToDisplay>
+  <CategoryName>Picture Books</CategoryName>
+  <CategoryPresentationName>Pretty Picture Books</CategoryPresentationName>
+  <CategoryShortDescription>Books containing pictures telling the story rather than words.</CategoryShortDescription>
+  <CategoryLongDescription>A fine selection of books using pictures to tell the wonderous stories.</CategoryLongDescription>
+  <CategoryTemplate></CategoryTemplate>
+  <CategoryImage1></CategoryImage1>
+  <CategoryImage2></CategoryImage2>
+  <CategoryAttributes></CategoryAttributes>
+  <SubProducts>
+    <ProductId>P08</ProductId>
+    <ProductId>P09</ProductId>
+  </SubProducts>
+</CategoryDetail>

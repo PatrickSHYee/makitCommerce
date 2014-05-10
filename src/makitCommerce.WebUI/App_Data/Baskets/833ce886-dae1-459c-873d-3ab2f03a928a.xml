@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomerBasket xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SessionId>833ce886-dae1-459c-873d-3ab2f03a928a</SessionId>
+  <BasketItemsArray>
+    <BasketItem>
+      <ProductId>P07</ProductId>
+      <ProductName>Alphabet Part One Book</ProductName>
+      <Quantity>4</Quantity>
+      <UnitPrice>
+        <AmountInPence>1199</AmountInPence>
+        <CurrencyCode>GBP</CurrencyCode>
+      </UnitPrice>
+      <LineTotalPrice>
+        <AmountInPence>4796</AmountInPence>
+        <CurrencyCode>GBP</CurrencyCode>
+      </LineTotalPrice>
+    </BasketItem>
+    <BasketItem>
+      <ProductId>P08</ProductId>
+      <ProductName>Unicorns Attack Book</ProductName>
+      <Quantity>15</Quantity>
+      <UnitPrice>
+        <AmountInPence>1100</AmountInPence>
+        <CurrencyCode>GBP</CurrencyCode>
+      </UnitPrice>
+      <LineTotalPrice>
+        <AmountInPence>16500</AmountInPence>
+        <CurrencyCode>GBP</CurrencyCode>
+      </LineTotalPrice>
+    </BasketItem>
+    <BasketItem>
+      <ProductId>P09</ProductId>
+      <ProductName>How to Train a Muppet Book</ProductName>
+      <Quantity>1</Quantity>
+      <UnitPrice>
+        <AmountInPence>1200</AmountInPence>
+        <CurrencyCode>GBP</CurrencyCode>
+      </UnitPrice>
+      <LineTotalPrice>
+        <AmountInPence>1200</AmountInPence>
+        <CurrencyCode>GBP</CurrencyCode>
+      </LineTotalPrice>
+    </BasketItem>
+  </BasketItemsArray>
+</CustomerBasket>

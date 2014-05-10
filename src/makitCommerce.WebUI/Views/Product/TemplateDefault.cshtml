@@ -1,0 +1,42 @@
+﻿@model makit.makitCommerce.Domain.Models.ProductDetail
+
+@{
+    ViewBag.Title = Model.PageTitle;
+}
+
+@section Css {
+    @Styles.Render("~/Content/addtobasket")
+}
+
+@section Scripts {
+    @Scripts.Render("~/bundles/addtobasket")
+}
+
+<h1>@Model.ProductName</h1>
+
+<p>@Model.ProductShortDescription</p>
+
+<h2>Full Description</h2>
+
+<p><em>@Model.ProductLongDescription</em></p>
+
+<p>@Model.ProductUnitPrice.ToString()</p>
+
+<script type="text/javascript">
+    var addOptions = {
+        dataType: 'json',
+        url: '@Url.Action("AddToBasketAjax", "Basket")',
+        success: function (data) {
+            $.jGrowl(data.SuccessMessage);
+            if (data.MiniBasketContent != null)
+                $('#MiniBasket').html(data.MiniBasketContent);
+        },
+        error: function () {
+            window.location.href = '@Url.Action("Index", "Basket")';
+        }
+    };
+    $(function () {
+       $("#AddForm-@(Model.ProductId)").ajaxForm(addOptions); 
+    });
+</script>
+@{ Html.RenderPartial("_BasketFormPartial"); }

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CategoryDetail>
+  <CategoryID>C003FANTASY</CategoryID>
+  <PageTitle>Fantasy DVDs and Blu-Rays from makitCommerce</PageTitle>
+  <MetaDescription>Fantasy DVDs and Blu-Rays</MetaDescription>
+  <MetaKeywords>fantasy, dvd, blu-ray, makitcommerce, makit</MetaKeywords>
+  <CategoryIDToDisplay></CategoryIDToDisplay>
+  <CategoryName>Fantasy DVDs</CategoryName>
+  <CategoryPresentationName>Fantasy DVDs and Blu-Rays</CategoryPresentationName>
+  <CategoryShortDescription>A host of DVDs set in fantasy worlds. Not the naughty kind.</CategoryShortDescription>
+  <CategoryLongDescription>All DVDs stocked by makitCommerce in the Fantasy Genre. Containing magic, and mythical creatures.</CategoryLongDescription>
+  <CategoryTemplate></CategoryTemplate>
+  <CategoryImage1></CategoryImage1>
+  <CategoryImage2></CategoryImage2>
+  <CategoryAttributes></CategoryAttributes>
+  <SubProducts>
+    <ProductId>P01</ProductId>
+  </SubProducts>
+</CategoryDetail>

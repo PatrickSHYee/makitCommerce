@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomPage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PageTitle>Welcome</PageTitle>
+  <CategoryIdToDisplay>C000ALL</CategoryIdToDisplay>
+  <CustomPageContents>&lt;h1&gt;Welcome&lt;/h1&gt; &lt;p&gt;Hello to this test site.&lt;/p&gt;</CustomPageContents>
+</CustomPage>

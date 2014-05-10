@@ -1,0 +1,56 @@
+﻿html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{border:0;font:inherit;font-size:100%;margin:0;padding:0;vertical-align:baseline}
+article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}
+body{background-color:#EFEFDF;color:#000;line-height:1;margin:0;padding:11px 0 14px}
+ol,ul{list-style:none}
+blockquote,q{quotes:none}
+blockquote:before,blockquote:after,q:before,q:after{content:none}
+table{border-collapse:collapse;border-spacing:0}
+#header{background:url(../images/blue_stripe.png);height:174px;margin:0 auto;position:relative;width:981px}
+
+#MiniBasketWrapper{background-color:#fff; height:50px; width: 150px;position: relative;float: right; margin: 10px 10px 0 0;border-top: 3px solid #2D2D2D;border-bottom: 3px solid #2D2D2D;font-family:Arial, Helvetica, sans-serif;}
+#MiniBasketWrapper a {text-decoration:none}
+#MiniBasketWrapper strong{font-size:15px;text-align:center; width:150px;float:left;margin:2px 0 8px 0;color:#194151}
+#MiniBasket{clear:both;}
+#MiniBasket em{font-size:13px;margin:0 0 0 10px;color:#555}
+#MiniBasket span{font-size:15px;font-weight:bold;float: right;margin:2px 5px 0 0;color:#444;}
+
+#menu{background-color:#2D2D2D;height:40px;margin:0 auto;position:relative;width:981px}
+#menu ul{left:10px;padding:0 0 0 20px;position:absolute;top:8px}
+#menu ul li{float:left;padding:0 1px 0 0}
+#menu ul li a{background-color:inherit;color:#eee;display:block;font:bold 11px Arial, Helvetica, sans-serif;padding:5px 14px;text-decoration:none}
+#menu ul li a:hover{background-color:#000;color:#fff}
+.logo{padding:25px 0 0 40px}
+#body{margin:0 auto;width:978px;background-color:#FFF;}
+#sidebar{float:left;width:168px;margin-right:10px;}
+#sidebar ul {margin: 0;list-style-type: none;}
+#sidebar ul.nav{padding: 10px 0px;}
+#sidebar ul.nav li {font-size: 1.07em;letter-spacing: .015em;}
+#sidebar ul.nav li a {text-decoration: none;display: block;padding: 6px 0 6px 18px;font-weight: normal;color: #333;}
+#sidebar ul.nav li a:hover {background-color: #146B91;color:#FFF;}
+#main{float:left;width:780px;padding-left:20px;}
+#main h1,h2{color:#222;display:block;font:bold 27px Arial, Helvetica, sans-serif;margin:0 0 10px;padding:20px 0 0 0;}
+#main p{color:#666;font:normal 13px Arial, Helvetica, sans-serif;padding-bottom:10px}
+#main form{color:#666;font:normal 13px Arial, Helvetica, sans-serif;padding:0 35px 10px}
+#main legend{color:#222;display:block;font:bold 20px Arial, Helvetica, sans-serif;margin:0 0 10px;padding:10px 0 0 0}
+.editor-label{font-weight:bold;padding-top:10px;}
+.editor-button{padding-top:10px;}
+#main span{color:#FF8635;font:bold 13px Arial, Helvetica, sans-serif}
+
+#main ul {margin: 0;list-style-type: none;}
+#main ul.nav li {font-size: 1.07em;letter-spacing: .015em;}
+#main ul.nav li a {text-decoration: none;display: block;padding: 6px 0 6px 18px;font-weight: normal;color: #333;}
+#main ul.nav li a:hover {text-decoration:underline;}
+
+.spacer{clear:both;font-size:0;line-height:0}
+#footer{background-color:#2D2D2D;color:#fff;height:50px;margin:0 auto;position:relative;width:977px}
+#footer p{color:#aaa;font:normal 11px Arial, Helvetica, sans-serif;left:35px;position:absolute;top:18px}
+#footer a{color:#aaa;padding-left:5px;text-decoration:none;font-weight:bold;}
+#footer a:hover{color:#fff;}
+
+
+.addForm #Quantity{width:30px;font-weight:bold;color:#444;text-align:center;}
+
+#basketTable table{font: 12px Arial, Helvetica, sans-serif;}
+#basketTable thead{font-weight: bold;background-color:#333;color:#eee;}
+#basketTable td {padding:5px;}
+#basketTable .quantity{width:30px;font-weight:bold;color:#444;text-align:center;}

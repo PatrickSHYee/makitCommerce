@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CategoryDetail>
+  <CategoryID>C005BOOKS</CategoryID>
+  <PageTitle>Books from makitCommerce</PageTitle>
+  <MetaDescription>Books for sale from makitCommerce</MetaDescription>
+  <MetaKeywords>makit, books, makitCommerce, products</MetaKeywords>
+  <CategoryIDToDisplay></CategoryIDToDisplay>
+  <CategoryName>Books</CategoryName>
+  <CategoryPresentationName>Beautiful Books</CategoryPresentationName>
+  <CategoryShortDescription>A fine selection of the best books.</CategoryShortDescription>
+  <CategoryLongDescription>We hold a small range of high quality and well reviewed books. They are available in large print or as a picture book, and at great prices.</CategoryLongDescription>
+  <CategoryTemplate></CategoryTemplate>
+  <CategoryImage1></CategoryImage1>
+  <CategoryImage2></CategoryImage2>
+  <CategoryAttributes></CategoryAttributes>
+  <SubCategories>
+    <CategoryId>C006LARGE</CategoryId>
+    <CategoryId>C007PICTURE</CategoryId>
+  </SubCategories>
+</CategoryDetail>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ProductDetail>
+  <ProductID>P08</ProductID>
+  <PageTitle>Unicorns Attack from makitCommerce</PageTitle>
+  <MetaDescription>Unicorns Attack Book from makitCommerce</MetaDescription>
+  <MetaKeywords>unicorns attack, picture, image, book, makit, makitCommerce</MetaKeywords>
+  <ProductName>Unicorns Attack Book</ProductName>
+  <ProductShortDescription>Unicorns Attack shows lots of pictures of what Unicorns attacking different humans would look like.</ProductShortDescription>
+  <ProductLongDescription>This book is not meant for children, or senior citizens, nor people who like humans and unicorns. It
+  depicts Unicorns attacking Humans whilst they go about day to day life.</ProductLongDescription>
+  <ProductAttributes>
+    <Attribute key="Test" value="TextValue" />
+  </ProductAttributes>
+  <ProductUnitPrice>
+    <AmountInPence>1100</AmountInPence>
+    <CurrencyCode>GBP</CurrencyCode>
+  </ProductUnitPrice>
+</ProductDetail>
